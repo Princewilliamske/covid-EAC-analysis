@@ -1,5 +1,5 @@
 
-# 🦠 COVID-19 Global Data Tracker (Kenya, Uganda, and Tanzania)
+# 🦠 COVID-19 Global Data Tracker (Kenya, Uganda, Rwanda, Djibouti, South Sudan, Congo and Tanzania)
 
 This project is a data analysis and reporting notebook that tracks COVID-19 trends in three East African countries: **Kenya**, **Uganda**, and **Tanzania**. It provides insights on cases, deaths, vaccination progress, and other key metrics through visualizations and narrative explanations.
 
